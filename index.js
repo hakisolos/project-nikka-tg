@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Replace with your actual bot token
-const BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN';
+const BOT_TOKEN = '7978081477:AAEAdpP_-Pl-eOTgBQmCtC9vywu9oab7UVg';
 
 // Initialize the bot
 const bot = new Telegraf(BOT_TOKEN);
